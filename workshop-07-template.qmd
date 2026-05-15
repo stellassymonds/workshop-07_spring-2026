@@ -4,3 +4,15 @@ author: "Stella Symonds"
 format: pdf
 ---
 
+## set up 
+
+```{r}
+#| label: reading-in-packages
+
+library(readxl)
+library(ggeffects)
+library(here)
+library(flextable)
+
+```
+
